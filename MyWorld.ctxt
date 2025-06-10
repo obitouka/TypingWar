@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\r\n\ \ \ \ \ Purpose\:-\ For\ testing\ your\ typing\ speed\ within\ 30\ seconds\ \ \ \ \ \ **\r\n\ \ \ \ \ Author\:-\ Roshan123\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ **\r\n\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ gameOver()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ carSpeed()
+comment5.params=
+comment5.target=void\ addAndRemove()
+comment6.params=
+comment6.target=void\ keys()
+comment7.params=
+comment7.target=void\ touch()
+comment8.params=
+comment8.target=void\ started()
+comment9.params=
+comment9.target=void\ randomColor()
+numComments=10

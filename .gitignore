@@ -1,0 +1,5 @@
+# Here we can write file patterns we don't want to upload
+*.class
+# I'm never quite sure about these, I think they contain
+# some Greenfoot settings, so I'm going to keep them
+# *.ctxt
