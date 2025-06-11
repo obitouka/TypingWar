@@ -4,7 +4,6 @@
 | PURPOSE OF PROJECT | Fun |
 | VERSION or DATE | 1.0 |
 | HOW TO START THIS PROJECT | Click "Run" xD |
-| AUTHORS | Me |
-| USER INSTRUCTIONS | 3rd stage cancer |
+| AUTHORS | Roshan |
+| USER INSTRUCTIONS | Use greenfoot to run |
 
-<!-- Alright, then lets upload this just to demonstrate how to upload changes. -->
